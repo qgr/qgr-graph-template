@@ -28,7 +28,7 @@ var TemplateView = Backbone.View.extend({
   render: function() {
     this.$el.html(this.template({
       rows: this.raw_data
-    });
+    }));
     return this;
   }
 
