@@ -1,6 +1,6 @@
-===============
-qgr-graph-table
-===============
+==================
+qgr-graph-template
+==================
 
-Table module for qoogr using Handlebars for rendering.
+Generic template renderer module for qoogr using Handlebars.
 
